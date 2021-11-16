@@ -21,17 +21,20 @@ usually written Mhd. Syarif, was born in a small village Riau Province. Indonesi
 ```
 
 ```yml
-email: 
+📫 email: 
 - halo@mhdsyarif.com
 - mhdsyarif.ms@gmail.com
-blogs:
+🌱 profesional: linkedin.com/in/mhdsyarif
+🔭 blogs:
 - mhdsyarif.com
 - blog.mhdsyarif.com
 - blogs.itb.ac.id/mhdsyarif
 - mhdsyarif.medium.com
 vlog:
 - youtube.com/user/syarifmhd
-linkedin: linkedin.com/in/mhdsyarif
+komunitas:
+- riauprogrammer.com
+- odoo.web.id
 ```
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mhdsyarif)](https://github.com/anuraghazra/github-readme-stats)
 
