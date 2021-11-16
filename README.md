@@ -15,10 +15,24 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+```php
 Assalamualaikum, Hello, my name is Muhammad Syarif, 
-<br/>usually written Mhd. Syarif, was born in a small village Riau Province. Indonesia.
-<br/>To reach me, send e-mail to halo AT mhdsyarif.com.
+usually written Mhd. Syarif, was born in a small village Riau Province. Indonesia.
+```
 
+```yml
+email: 
+- halo@mhdsyarif.com
+- mhdsyarif.ms@gmail.com
+blogs:
+- mhdsyarif.com
+- blog.mhdsyarif.com
+- blogs.itb.ac.id/mhdsyarif
+- mhdsyarif.medium.com
+vlog:
+- youtube.com/user/syarifmhd
+linkedin: linkedin.com/in/mhdsyarif
+```
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mhdsyarif)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhdsyarif&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
