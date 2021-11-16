@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Assalamualaikum, Hello, my name is Muhammad Syarif, 
+<br/>usually written Mhd. Syarif, was born in a small village Riau Province. Indonesia.
+<br/>To reach me, send e-mail to halo AT mhdsyarif.com.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mhdsyarif)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhdsyarif&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
